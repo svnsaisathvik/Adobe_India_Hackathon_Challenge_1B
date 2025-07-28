@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-27T18:31:59.784216"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Right-click the text box to open the Text Box Properties and change the border and fill",
+      "page_number": 13,
+      "importance_rank": 239
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "section_title": "In Acrobat for Windows®, you can export text edits directly to the Microsoft® Word document",
+      "page_number": 10,
+      "importance_rank": 66
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "documents, ensuring their authenticity and integrity. By using digital signatures, you can sign",
+      "page_number": 1,
+      "importance_rank": 25
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "The Request Signatures window is displayed. It displays the fields progressively as you",
+      "page_number": 2,
+      "importance_rank": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "Launch Acrobat and sign in as an administrator.",
+      "page_number": 13,
+      "importance_rank": 323
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "It displays the Fill & Sign tools in the left pane. You can now fill in the form fields and sign the.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "various documents to PDF forms. You can use the options in the Edit panel to replace, edit, or.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "In Acrobat or Acrobat Reader, the signature of a certified or signed document is valid if you.",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "You can use markup tools to give suggestions for formatting the text, structuring a document,.",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Also, you can edit PDFs with comments online. Our online PDF editor lets you easily add text,.",
+      "page_number": 10
+    }
+  ]
+}
